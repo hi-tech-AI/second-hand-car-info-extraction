@@ -1,0 +1,2 @@
+python link.py
+pause
